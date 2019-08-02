@@ -1,5 +1,8 @@
 public class Claculator{
     public static void main(String[] args){
-        System.out.println("Hello World!");
+
+    }
+    int addition(int x, int y){
+        return x+y;
     }
 }
